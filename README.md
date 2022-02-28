@@ -8,12 +8,13 @@
  
  
 <p/>
- ### Tools Used
+
+### Tools Used
 
 **flutter:** Google's UI toolkit for building cross platform apps\
 **firebase:** Google's BAAS\
 **provider:** State management library\
-**get_it:** Dependency injection framework\
+**get_it:** Dependency injection framework
 
 ### Run Locally
 
