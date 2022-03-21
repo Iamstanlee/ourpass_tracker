@@ -8,7 +8,7 @@ import 'package:ourpass/core/utils/async_value.dart';
 import 'package:ourpass/feature/authentication/provider/auth_provider.dart';
 import 'package:ourpass/feature/weight_tracker/presentation/home.dart';
 import 'package:ourpass/feature/weight_tracker/provider/weight_provider.dart';
-import 'package:ourpass/firebase_options.dart';
+import 'package:ourpass/config/firebase_options.dart';
 import 'package:ourpass/injector.dart';
 import 'package:provider/provider.dart';
 
